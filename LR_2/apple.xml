@@ -1,0 +1,19 @@
+<Company>
+   <Name>Apple</Name>
+   <Products name="0">personal and tablet computers</Products>
+   <Products name="1">smartphones</Products>
+   <Products name="2">audio players</Products>
+   <Products name="3">wearable technology</Products>
+   <Products name="4">software</Products>
+   <Products name="5">operating systems</Products>
+  <NumberOfEmployees>1.64e5</NumberOfEmployees>
+  <FinancialReport>
+    <Equity>5.0672e10</Equity>
+    <Turnover>3.9433e11</Turnover>
+    <RAndDExpenses>2.6251e10</RAndDExpenses>
+    <OperatingIncome>1.1944e11</OperatingIncome>
+    <NetIncome>9.9803e10</NetIncome>
+    <Assets>3.5276e11</Assets>
+    <Capitalization>3.05e12</Capitalization>
+  </FinancialReport>
+</Company>

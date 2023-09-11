@@ -1,0 +1,18 @@
+{
+  "Name": "Microsoft",
+  "Products": [
+    "Microsoft Office",
+    "Microsoft Windows",
+    "Xbox"
+  ],
+  "NumberOfEmployees": "2.21e5",
+  "FinancialReport": {
+    "Equity": "1.6654e11",
+    "Turnover": "1.9827e11",
+    "RAndDExpenses": "2.4512e10",
+    "OperatingIncome": "8.3282e10",
+    "NetIncome": "7.2738e10",
+    "Assets": "3.6484e11",
+    "Capitalization": "1.985e12"
+  }
+}
